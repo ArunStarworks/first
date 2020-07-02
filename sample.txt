@@ -2,5 +2,6 @@ Devops is awesome
 Devops is great
 devops is also great
 devops is great
-devops is cloud 
+devops is cloud
+devops is aws 
 
