@@ -1,0 +1,83 @@
+[33mcommit 0cf4d6a6d6d3035f1e727397619b0aa2d0fe31a3[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m, [m[1;33mtag: v1.1[m[33m, [m[1;33mtag: 1.3[m[33m, [m[1;31morigin/master[m[33m)[m
+Author: arun <arun.tbone@gmail.com>
+Date:   Fri Jul 3 22:24:59 2020 +0000
+
+    feature1 added
+
+[33mcommit 00385e158c6024e56d73a6b77bc2d6935d6eeef6[m
+Merge: fee66a9 da61332
+Author: arun <arun.tbone@gmail.com>
+Date:   Thu Jul 2 20:10:12 2020 +0000
+
+    Merge branch 'master' of github.com:ArunStarworks/first
+    updated and merged to master branch
+
+[33mcommit fee66a9760bcfe420a4cc6e93c2e74617b80bada[m
+Author: arun <arun.tbone@gmail.com>
+Date:   Thu Jul 2 20:09:51 2020 +0000
+
+    added another line -a
+
+[33mcommit da613327acb1bfd4fcdc4285d9371db4d333a29c[m
+Author: ArunStarworks <47758254+ArunStarworks@users.noreply.github.com>
+Date:   Thu Jul 2 21:09:09 2020 +0100
+
+    new file2 added
+    
+    added new file2
+
+[33mcommit 7f3633c77c0c29f45a54883224e2664129b89378[m
+Merge: 3f65770 fe9e594
+Author: arun <arun.tbone@gmail.com>
+Date:   Thu Jul 2 20:06:36 2020 +0000
+
+    Merge branch 'master' of github.com:ArunStarworks/first
+
+[33mcommit 3f657700a05e52e863ce37e8d3bc9f4f1c5e5c30[m
+Author: arun <arun.tbone@gmail.com>
+Date:   Thu Jul 2 20:06:20 2020 +0000
+
+    added 5th line
+
+[33mcommit fe9e59479a40003e03a31db18ebb7ffabe8e3893[m
+Author: ArunStarworks <47758254+ArunStarworks@users.noreply.github.com>
+Date:   Thu Jul 2 21:05:39 2020 +0100
+
+    Create newfile
+
+[33mcommit 47cf356a4cf289e4d8f42895446ca5fa11a6f79f[m
+Author: arun <arun.tbone@gmail.com>
+Date:   Thu Jul 2 20:01:09 2020 +0000
+
+    added anotherline
+
+[33mcommit 6993736fef99f6217f0cecf4508400275e691934[m
+Author: EC2 Default User <ec2-user@ip-172-31-3-209.us-east-2.compute.internal>
+Date:   Thu Jul 2 19:57:55 2020 +0000
+
+    added 4th line
+
+[33mcommit b5f00ba761b0fd722209ac50f93cac9024a933c9[m
+Merge: cd2f5e8 20104fe
+Author: EC2 Default User <ec2-user@ip-172-31-3-209.us-east-2.compute.internal>
+Date:   Thu Jul 2 19:55:02 2020 +0000
+
+    resolved conflicts
+
+[33mcommit cd2f5e8b94da61a4493055af2581f5fa1a67ebe3[m
+Author: EC2 Default User <ec2-user@ip-172-31-3-209.us-east-2.compute.internal>
+Date:   Thu Jul 2 19:48:27 2020 +0000
+
+    added second line-a
+
+[33mcommit 20104feb22c7d56aa4acf3cd2ad33618fba72ecc[m
+Author: ArunStarworks <47758254+ArunStarworks@users.noreply.github.com>
+Date:   Thu Jul 2 20:47:04 2020 +0100
+
+    Update sample.txt
+
+[33mcommit 0499b041b35b576a422d84faeefb77dd79d13a46[m
+Author: EC2 Default User <ec2-user@ip-172-31-3-209.us-east-2.compute.internal>
+Date:   Wed Jul 1 20:54:54 2020 +0000
+
+    first commit-a
